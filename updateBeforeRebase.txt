@@ -1,0 +1,1 @@
+Just updating here to 1) see what happens when a new branch off of master is updated and 2) to understand how a rebase works and 3) to understand how to undo a rebase gone wrong without flaws. 
